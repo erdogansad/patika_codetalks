@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "276822311239",
+    "firebase_url": "https://codetalks-3855f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "codetalks-3855f",
+    "storage_bucket": "codetalks-3855f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276822311239:android:5cd5ab98e970370a6a8c62",
+        "android_client_info": {
+          "package_name": "com.patika_codetalks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm66IPJdeIP_dmRverrneQxzUdLInWV4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
